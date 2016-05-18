@@ -1,2 +1,2 @@
 # Pycyhy
-Tool written in Python to organize CSV files as reported in a Cyber Hygiene report.
+Tool written in Python to organize data and extrapolate information from CSV files as reported in a Cyber Hygiene report.
